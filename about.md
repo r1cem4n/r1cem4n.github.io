@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+About me: My name is Marcel, and I've worked as an IT technician, web developer, chef, and apprentice gardener. I'm an avid DIY-er & a resident of Flint, MI. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+On this site, I'll be sharing my progress in my many professional and private projects; including but not limited to Unity and C# development, greenhouse gardening, and rock & roll music
