@@ -16,7 +16,8 @@
 title: mmilewski.dev
 email: marc.milewski@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A simple blog for chronicaling my adventures in DIY, music, horticulture, software development and hardware tinkering.
+  A simple blog for chronicling my adventures in DIY, music, horticulture, software development and hardware tinkering.
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mmilewski.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: marcelmilewski
