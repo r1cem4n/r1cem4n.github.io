@@ -1,25 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Site Launched"
 date:   2019-03-03 15:23:17 -0500
-categories: jekyll update
+categories: update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+First post! After dedciating a few hours to understanding GitHub pages and the ins & outs of Jekyll & Liquid, I managed to get some semblance of a web presence started. 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+The next few updates will be about my greenhouse and current Unity project. Once I get the content compiled I will have it posted here shortly. Later updates will include details on my band and our jam studio, including the in depth DIY process we went through to build it out.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Come back soon for more!
