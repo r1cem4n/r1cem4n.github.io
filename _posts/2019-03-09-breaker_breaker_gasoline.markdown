@@ -7,6 +7,8 @@ categories: music
 
 [Breaker Breaker - Hope Time & Gasoline](2019-03-09/gasoline_edited.mp3?autoplay=0&loop=0&controls=1)
 
+'2019-03-09/gasoline_edited.mp3?autoplay=0&loop=0&controls=1'
+
 
 {% include open-embed.html %}
 
