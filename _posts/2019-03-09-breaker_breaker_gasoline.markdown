@@ -7,7 +7,7 @@ categories: music
 
 [Breaker Breaker - Hope Time & Gasoline](2019-03-09/gasoline_edited.mp3?autoplay=0&loop=0&controls=1)
 
-'2019-03-09/gasoline_edited.mp3?autoplay=0&loop=0&controls=1'
+https://raw.githubusercontent.com/r1cem4n/r1cem4n.github.io/master/_posts/2019-03-09/gasoline_edited.mp3?autoplay=0&loop=0&controls=1
 
 
 {% include open-embed.html %}
